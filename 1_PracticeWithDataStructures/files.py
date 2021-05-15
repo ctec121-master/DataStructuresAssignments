@@ -63,15 +63,18 @@ def main():
     - element access
     - traversal
     '''
-    fileName = "sample.txt"
+    # VS Code uses the root folder as its run location.
+    # The file name below provides pathing information to the sample file.
+    fileName = "1_PracticeWithDataStructures\\sample.txt"
+
     # View the file in a text editor.
 
     # There are several ways to read a file
 
     # Method 1: read()
-    # open your book to p. 161 and replicate the code at the center of 
-    # the page that opens, reads, and prints the file. Use "infile" again
-    # as the file handle
+    # open your book to p. 161 (section 5.9.2) and replicate the code at the 
+    # center of the page that opens, reads, and prints the file. Use "infile" 
+    # again as the file handle
 
     # compare the program output with what you see in a text editor.
     # are they the same? Add your answer in a comment here:
