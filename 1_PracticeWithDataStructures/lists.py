@@ -1,6 +1,14 @@
 # lists.py
+"""
+CTEC 121
+date: <ex: mm/dd/yyyy>
+<your name>
+Name: <assignment/lab name>
+Description: <assignment/lab description>
+"""
 
 # general instructions: 
+#   - update the file comment header above
 #   - print a blank line between sections of output
 #   - Add your comments using triple quotes. Example:
 ''' student comment'''

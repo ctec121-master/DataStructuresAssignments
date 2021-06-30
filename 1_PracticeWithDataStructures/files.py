@@ -1,9 +1,23 @@
 # files.py
+"""
+CTEC 121
+date: <ex: mm/dd/yyyy>
+<your name>
+Name: <assignment/lab name>
+Description: <assignment/lab description>
+"""
 
 # general instructions: 
+#   - update the file comment header above
 #   - print a blank line between sections of output
 #   - Add your comments using triple quotes. Example:
 ''' student comment'''
+
+# NOTE on file names
+#   VS Code runs the program from the root of the folder structure. 
+#   That means that this file is run from the folder above.
+#   Note that the filename in line 81 below uses relative pathing.
+#   It includes both the folder and filename for sample.txt.
 
 def main():
     # we want to see what is going on in the file system.
